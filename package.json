@@ -1,0 +1,14 @@
+{
+  "name": "unlock-stats",
+  "version": "1.0.0",
+  "description": "To unock various statements for Shubham DHingra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Dhingra",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
